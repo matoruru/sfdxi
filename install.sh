@@ -1,6 +1,6 @@
 #!/usr/bin/env
 
-TO="/usr/lobal/bin/"
+TO="/usr/local/bin/"
 ORG="./sfdxi.sh"
 NEW="./sfdxi"
 
