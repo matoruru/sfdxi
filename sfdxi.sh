@@ -18,9 +18,9 @@ function open_ () {
 function list_ () {
    echo "You use 'list'."
 
-   echo "sfdx force:org:list"
+   echo "sfdx force:org:list --all"
    echo
-         sfdx force:org:list
+         sfdx force:org:list --all
 }
 
 function create_ () {
