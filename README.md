@@ -1,2 +1,2 @@
-# salesforce-tools
-Tools for salesforce
+# sfdxi
+sfdxi is sfdx's interactive command (influenced by GHCi).
